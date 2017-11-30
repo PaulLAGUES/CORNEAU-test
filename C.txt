@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 C pas moi
-=======
 C moi
->>>>>>> e8448a0c07789dcebb53ec8ab432ae1f229eb6fa
